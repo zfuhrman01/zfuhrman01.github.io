@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { background-color: lightblue;
+	color: hotpink;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+font-size: 20px;
+	width: 960px;
+	padding: 5px;
+	
+	margin: auto;
+	text-align:center;
+	line-height: 1.2em;
+	border: 8px solid;
+}
+
+header{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 40px;
+	font-style: bold;
+}
+h2{ width:100%;
+margin: 0 auto;
+text-align: center;
+font-size: 35px;
+font-family: "Palatino";
+font-style: italic; 
+}
+
+nav {
+	font-size: 25px;
+	align-content: center;
+	margin:auto;
+	text-align: center;
+	padding: auto; 
+		
+}
+
+main{ 
+}
+
+nav li {
+	display: inline; 
+	margin-left: auto;
+	margin-right: auto;
+	border-style: double;
+	align-content: center;
+	background-color: lightblue;
+	border-color: hotpink;
+	color: hotpink; 
+	text-decoration-style: bold;	
+	
+}
+p.normal {text-style: bold}
+
+p{ align-content: center;
+	
+}
+
+a:link{ color: hotpink; }
+a:visited{color: seagreen;}
