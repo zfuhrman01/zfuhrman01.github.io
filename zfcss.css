@@ -3,8 +3,8 @@
 
 body { background-color: lightblue;
 	color: hotpink;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-font-size: 20px;
+	font-family: Poppins, sans-serif;"Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+font-size: 21px;
 	width: 960px;
 	padding: 5px;
 	
@@ -18,7 +18,7 @@ header{
 	width: 100%;
 	margin: 0 auto;
 	text-align: center;
-	font-size: 40px;
+	font-size: 41px;
 	font-style: bold;
 }
 h2{ width:100%;
@@ -30,7 +30,7 @@ font-style: italic;
 }
 
 nav {
-	font-size: 25px;
+	font-size: 23px;
 	align-content: center;
 	margin:auto;
 	text-align: center;
